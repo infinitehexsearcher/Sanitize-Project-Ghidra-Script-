@@ -1,6 +1,9 @@
 Ensure Ghidra is Installed:
 Make sure you have Ghidra installed on your system. You can download it from the official website: https://ghidra-sre.org/
 
+If you have a existing project MAKE SURE TO BACKUP THE PROJECT BEFORE RUNNING SCRIPT ALTHOUGH THIS SCRIPT IS MEANT CLEAR PROJECT INFO, LIKE ALL THINGS IN LIFE THINGS CAN GO WRONG !
+SO PLEASE BACKUP THE PROJECT IN THE CURRENT STATE BEFORE RUNNING SCRIPT !
+
 Save the Script:
 Save the provided Python script to a location accessible by Ghidra. For example, you can save it to C:\Users\xxx\ghidra_scripts\example.py.
 
